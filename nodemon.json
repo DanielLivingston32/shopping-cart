@@ -1,8 +1,0 @@
-{
-    "env":{
-        "MONGODB_USER": "danielMacServer",
-        "MONGODB_PASSWORD": "zjm8Z8wKYC2r1IlP",
-        "MONGODB_DATABASE":"shop",
-        "STRIPE_KEY": "sk_test_51J2ebmSGHpt5A7IvQahd4PnDC93l8StvYhPofDQ37EmMRWgYDyGHfSVlM2FCLYgiDe6Gk51y8QDFmzsJWIuTATXU00u8D3Mvzy"
-    }
-}
